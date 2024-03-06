@@ -12,9 +12,7 @@ $\frac{a+b}{c+d}$　
 
 $\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.$
 
-题目：求
-
-$
+题目：求 $
 \begin{vmatrix}
 8&2&0&1 \\
 1&3&10&0 \\
