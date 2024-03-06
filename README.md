@@ -1,6 +1,6 @@
 # forlatext
 
-# $\frac{1}{2}$
+# abc $\frac{1}{2}$
 
 >测试行内 $\frac{1}{2}$
 
