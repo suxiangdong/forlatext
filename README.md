@@ -1,10 +1,16 @@
 # forlatext
 
-测试行内$\frac{1}{2}$
+测试行内 $\frac{1}{2}$
 
-测试行内$\frac{a+b}{c+d}$　
+$\frac{1}{2}$
 
-测试行内$\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.$
+测试行内 $\frac{a+b}{c+d}$　
+
+$\frac{a+b}{c+d}$　
+
+测试行内 $\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.$
+
+$\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.$
 
 题目：求
 
