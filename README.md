@@ -5,6 +5,21 @@
 > 两行互换之后，实际上列标排列没变，行标排列做了一次对换，因此每一项的符号均会发生变化，因此符号改变。
 
 
+$$
+\begin{vmatrix}
+a & b\\
+c & d
+\end{vmatrix} = ad - cb
+$$
+
+$
+\begin{vmatrix}
+a & b\\
+c & d
+\end{vmatrix} = ad - cb
+$
+
+
 # abc $\frac{1}{2}$
 
 ### 性质1: $D^T = D$
