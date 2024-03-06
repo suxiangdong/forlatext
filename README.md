@@ -4,6 +4,8 @@
 
 测试行内$\frac{a+b}{c+d}$　
 
+测试行内$\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.$
+
 题目：求
 
 $
