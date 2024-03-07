@@ -11,6 +11,7 @@ X\\Y
 a
 
 $$
+题目：求
 \begin{cases}
 5x+6y=7 \\
 9x+4y=3
