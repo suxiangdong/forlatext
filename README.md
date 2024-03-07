@@ -1,6 +1,28 @@
 # forlatext
 
 $$
+D =
+\begin{vmatrix}
+1 & 1 & 0 & 3 \\
+1 & 1 & 1 & 1 \\
+2 & 2 & 3 & 4 \\
+5 & 5 & 6 & 6
+\end{vmatrix} \\
+M_{32} = 
+\begin{vmatrix}
+1 & 0 & 3 \\
+1 & 1 & 1 \\
+5 & 6 & 6
+\end{vmatrix} \qquad
+A_{32} = (-1)^{(3+2)}
+\begin{vmatrix}
+1 & 0 & 3 \\
+1 & 1 & 1 \\
+5 & 6 & 6
+\end{vmatrix}
+$$
+
+$$
 \begin{vmatrix}
 8
 \end{vmatrix} = 8 \qquad
