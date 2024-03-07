@@ -1,6 +1,7 @@
 # forlatext
 
 a
+
 $$
 \begin{cases}
 5x+6y=7 \\
