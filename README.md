@@ -2,7 +2,9 @@
 
 ```math
 $
-begin{bmatrix}X\\Y\end{bmatrix}
+\begin{bmatrix}
+X\\Y
+\end{bmatrix}
 $
 ```
 
