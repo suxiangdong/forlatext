@@ -3,7 +3,7 @@
 $$
 \begin{vmatrix}
 8
-\end{vmatrix} = 8\\
+\end{vmatrix} = 8
 \\
 \begin{vmatrix}
 5
