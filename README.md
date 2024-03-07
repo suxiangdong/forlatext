@@ -1,5 +1,17 @@
 # forlatext
 
+$$
+\begin{vmatrix}
+8
+\end{vmatrix} = 8 \qquad
+\begin{vmatrix}
+5
+\end{vmatrix} = 5 \qquad
+\begin{vmatrix}
+-1
+\end{vmatrix} = -1
+$$
+
 行列式内部元素以 $a_{ij}$表示，i表示行标，j表示列标。
 
 $$
