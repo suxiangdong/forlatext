@@ -1,6 +1,6 @@
 # forlatext
 
-$$题目: 求
+>$$题目: 求
 \begin{vmatrix}
 1&2&0&1 \\
 2&3&10&0 \\
@@ -8,6 +8,11 @@ $$题目: 求
 5&10&15&4
 \end{vmatrix}
 $$
+
+>abc
+>
+>sdf
+
 
 $$
 \begin{vmatrix}
