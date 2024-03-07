@@ -1,6 +1,8 @@
 # forlatext
 
-\documentclass[UTF8]{ctexart}
+```math
+begin{bmatrix}X\\Y\end{bmatrix}
+```
 
 a
 
