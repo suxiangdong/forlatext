@@ -1,6 +1,10 @@
 # forlatext
 
-$$
+> 示例
+> 技巧：按照0多的那一行（列）展开
+> 按第一行展开
+>
+>$$
 \begin{vmatrix}
 1&1&2 \\
 0&1&0 \\
@@ -17,6 +21,20 @@ $$
 2 * (-1)^{(1+3)}\begin{vmatrix}
 0&1 \\
 2&3
+\end{vmatrix}
+>$$
+>
+> 按第二行展开
+>
+>$$
+\begin{vmatrix}
+1&1&2 \\
+0&1&0 \\
+2&3&5
+\end{vmatrix} = 
+1 * (-1)^{(2+2)}\begin{vmatrix}
+1&2 \\
+2&5
 \end{vmatrix}
 $$
 
