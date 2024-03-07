@@ -1,5 +1,14 @@
 # forlatext
 
+$$题目: 求
+\begin{vmatrix}
+1&2&0&1 \\
+2&3&10&0 \\
+0&3&5&8 \\
+5&10&15&4
+\end{vmatrix}
+$$
+
 $$
 \begin{vmatrix}
 0 & 2 & 0 & 0 \\
