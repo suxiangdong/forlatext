@@ -1,6 +1,26 @@
 # forlatext
 
 $$
+\begin{vmatrix}
+1&1&2 \\
+0&1&0 \\
+2&3&5
+\end{vmatrix} = 
+1 * (-1)^{(1+1)}\begin{vmatrix}
+1&0 \\
+3&5
+\end{vmatrix} + 
+1 * (-1)^{(1+2)}\begin{vmatrix}
+0&0 \\
+2&5
+\end{vmatrix} + 
+2 * (-1)^{(1+3)}\begin{vmatrix}
+0&1 \\
+2&3
+\end{vmatrix}
+$$
+
+$$
 D =
 \begin{vmatrix}
 1 & 1 & 0 & 3 \\
