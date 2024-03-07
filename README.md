@@ -6,7 +6,7 @@ $$
 \end{vmatrix} = 8 \\
 \begin{vmatrix}
 5
-\end{vmatrix} = 5 \qquad
+\end{vmatrix} = 5 \\
 \begin{vmatrix}
 -1
 \end{vmatrix} = -1
