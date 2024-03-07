@@ -1,6 +1,7 @@
 # forlatext
 
 ##### 符号表示
+dsaf
 $$
 D = \begin{vmatrix}
 a_{ij}
