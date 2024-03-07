@@ -1,5 +1,7 @@
 # forlatext
 
+\documentclass[UTF8]{ctexart}
+
 a
 
 $$
