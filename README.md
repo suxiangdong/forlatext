@@ -7,7 +7,7 @@ D =
 1 & 1 & 1 & 1 \\
 2 & 2 & 3 & 4 \\
 5 & 5 & 6 & 6
-\end{vmatrix} \\
+\end{vmatrix} \qquad
 M_{32} = 
 \begin{vmatrix}
 1 & 0 & 3 \\
