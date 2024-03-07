@@ -1,7 +1,9 @@
 # forlatext
 
 ```math
+$
 begin{bmatrix}X\\Y\end{bmatrix}
+$
 ```
 
 a
