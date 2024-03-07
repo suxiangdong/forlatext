@@ -14,39 +14,6 @@ $$
 \end{vmatrix} = -1
 $$
 
-$$
-\begin{vmatrix}
-8
-\end{vmatrix} = 8 \qquad
-\begin{vmatrix}
-5
-\end{vmatrix} = 5 \qquad
-\begin{vmatrix}
--1
-\end{vmatrix} = -1
-$$
-
-$$
-\begin{vmatrix}
-8
-\end{vmatrix} = 8 \\
-\begin{vmatrix}
-5
-\end{vmatrix} = 5
-$$
-
-$$
-\begin{vmatrix}
-5
-\end{vmatrix} = 5
-$$
-
-$$
-\begin{vmatrix}
--1
-\end{vmatrix} = -1
-$$
-
 求解得到：
 
 $$ x = \frac{74-63}{54-69} \qquad y = \frac{35-79}{54-69} $$
